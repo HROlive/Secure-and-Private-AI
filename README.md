@@ -2,6 +2,10 @@
 
 This course introduced me to three cutting-edge technologies for privacy-preserving AI: Federated Learning, Differential Privacy, and Encrypted Computation. I learned how to use the newest privacy-preserving technologies, such as OpenMined's PySyft. PySyft extends Deep Learning tools—such as PyTorch—with the cryptographic and distributed technologies necessary to safely and securely train AI models on distributed private data.
 
+<p align="center">
+  <img src="images/logo.png" width=500>
+</p>
+
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6+, PySyft, Numpy, PyTorch 1.0, and Jupyter Notebooks. The easiest way to install the required libraries is with Conda. Create a new environment, then install the dependencies in that environment. In your terminal:
