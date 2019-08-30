@@ -9,6 +9,7 @@ This course introduced me to three cutting-edge technologies for privacy-preserv
 ## Dependencies
 
 To run these notebooks you'll need to install Python 3.6+, PySyft, Numpy, PyTorch 1.1.0, and Jupyter Notebooks. The easiest way to install the required libraries is with [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/overview.html) virtual environment. If you are using Windows, I suggest installing [Anaconda and using the Anaconda Prompt](https://docs.anaconda.com/anaconda/user-guide/getting-started/) to work from the command line.
+
 Create a new environment, then install the dependencies in that environment. In your terminal:
 
 ```bash
@@ -27,8 +28,6 @@ pip install --upgrade --force-reinstall zstd
 If this still doesn't work, and you happen to be on OSX, make sure you have [OSX command line tools](https://railsapps.github.io/xcode-command-line-tools.html) installed and try again.
 
 You can also install PySyft from source on a variety of operating systems by following this [installation guide](https://github.com/OpenMined/PySyft/blob/dev/INSTALLATION.md).
-
-If you are using Windows, I suggest installing Anaconda and using the Anaconda Prompt to work from the command line.
 
 With this environment activated and in the repo directory, launch Jupyter Notebook:
 
