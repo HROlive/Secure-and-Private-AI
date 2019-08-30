@@ -16,7 +16,7 @@ Create a new environment, then install the dependencies in that environment. In 
 conda create -n pysyft python=3
 conda activate pysyft # some older version of conda require "source activate pysyft" instead.
 conda install numpy jupyter notebook
-conda install pytorch torchvision -c pytorch # depends
+conda install pytorch torchvision -c pytorch # depends on the version
 pip install syft
 ```
 
